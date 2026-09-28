@@ -1,0 +1,15 @@
+{
+  "name": "clinica-demo-api",
+  "version": "0.1.0",
+  "private": true,
+  "description": "API ficticia de una clínica, usada para probar DPA Compliance Scanner",
+  "main": "server/app.js",
+  "scripts": {
+    "start": "node server/app.js"
+  },
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.5",
+    "express": "^4.21.2"
+  }
+}
